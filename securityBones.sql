@@ -29,6 +29,6 @@ INSERT INTO `secbones`.`user_roles` (`user_id`, `role_id`) VALUES ('2', '2');
 INSERT INTO `secbones`.`user_roles` (`user_id`, `role_id`) VALUES ('3', '1');
 INSERT INTO `secbones`.`user_roles` (`user_id`, `role_id`) VALUES ('3', '2');
 
-select * from `secbones` . `role`;
+select * from  	`role`;
 select * from `user`;
 select * from `user_roles`;
